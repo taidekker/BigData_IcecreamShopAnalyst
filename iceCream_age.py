@@ -1,3 +1,5 @@
+#Napapis Dekker
+
 import pandas as pd
 import statistics as st
 import numpy as np
