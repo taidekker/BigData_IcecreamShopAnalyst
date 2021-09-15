@@ -1,4 +1,8 @@
 #Napapis Dekker
+"""The file Quarter_Sales.csv contains ice cream sales data for each quarter from 2006 till 2020.
+Using auto-correlation techniques, predict the sales for Q1 of 2021.
+Print the summary of the linear model and the prediction.
+"""
 import pandas as pd
 import statsmodels.api as sm
 import numpy as np
